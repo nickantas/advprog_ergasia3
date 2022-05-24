@@ -1,4 +1,4 @@
-package gr.upatras.ergasia3;
+/*package gr.upatras.ergasia3;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -54,4 +54,4 @@ public class TextController {
         Text Text = TextService.addText(p);
         return new ResponseEntity<Text>( Text, HttpStatus.OK);
     }
-}
+}*/
